@@ -1,0 +1,9 @@
+{
+  "extends": ["stylelint-config-standard"],
+  "ignoreFiles": ["node_modules/**/*"],
+  "rules": {
+    "media-feature-range-notation": null,
+    "selector-class-pattern": null,
+    "no-descending-specificity": null
+  }
+}
